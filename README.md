@@ -69,14 +69,14 @@ npm start
 - **Página:** [`Click aqui`](https://dashboard.infinitywa.xyz)
 - **Dashboard:** [`Aquí`](https://dashboard.infinitywa.xyz)
 - **Panel:** [`Aquí`](https://live.panel-infinitywa.store)
-- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
+- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/DlHzZruKRaPKu4o7bPZn2e)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10)
 - **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - Igna • Bot**</summary><img src="https://qu.ax/CqMG.jpg"></details>
 ------------------------
 ### 💎 FlarexCloud
-> Empiece a usar FlarexCloud para activar **🍭 Sumi - Sakurasawa - MD**
+> Empiece a usar FlarexCloud para activar **♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩**
 
 <a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
 ### Información sobre FlarexCloud
@@ -100,7 +100,7 @@ npm start
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd Sumi-Sakurasawa
+> cd Kuroda bot
 > npm start
 ```
 -------
@@ -127,7 +127,7 @@ npm start
 
 - Si tiene algún problema la bot contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/51955918117"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/51913776697"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -136,11 +136,11 @@ npm start
 
 - Grupo Oficial Del Bot
 
-* <a href="https://chat.whatsapp.com/BCwy3LycCvSK5dHoslCEK9"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/DlHzZruKRaPKu4o7bPZn2e"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Daniel🇦🇱"/></a>
+<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Criss 🐢🤑"/></a>
 
-`© Sumi - Sakurasawa / By Daniel 🇦🇱`
+`♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ / Criss david 🐢`
